@@ -1,0 +1,33 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "jquery/jquery.d.ts": {
+      "commit": "dc9dabe74a5be62613b17a3605309783a12ff28a"
+    },
+    "bootstrap.v3.datetimepicker/bootstrap.v3.datetimepicker.d.ts": {
+      "commit": "eb59a40d3c2f3257e34ec2ede181046230814a41"
+    },
+    "moment/moment.d.ts": {
+      "commit": "eb59a40d3c2f3257e34ec2ede181046230814a41"
+    },
+    "moment/moment-node.d.ts": {
+      "commit": "eb59a40d3c2f3257e34ec2ede181046230814a41"
+    },
+    "underscore/underscore.d.ts": {
+      "commit": "7136728255d96038795d93c3e4b43c3c7de8ac1e"
+    },
+    "jquery.pnotify/jquery.pnotify.d.ts": {
+      "commit": "8ea42cd8bb11863ed6f242d67c502288ebc45a7b"
+    },
+    "pgwmodal/pgwmodal.d.ts": {
+      "commit": "8ea42cd8bb11863ed6f242d67c502288ebc45a7b"
+    },
+    "bootstrap/bootstrap.d.ts": {
+      "commit": "dc9dabe74a5be62613b17a3605309783a12ff28a"
+    }
+  }
+}
